@@ -1,0 +1,16 @@
+{
+  "electricity_kwh": 0.82,
+  "lpg_cylinder_14_2kg": 43.0,
+  "bike_km": 0.075,
+  "car_petrol_km": 0.192,
+  "car_diesel_km": 0.171,
+  "bus_km": 0.105,
+  "train_km": 0.041,
+  "flight_km": 0.15,
+  "diet_profiles": {
+    "meat_heavy": 6.0,
+    "mixed": 3.5,
+    "vegetarian": 2.0,
+    "vegan": 1.5
+  }
+}
